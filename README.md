@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Youssef Adel AKA. @youssefadel94
-- 👀 I’m interested in coding, sports and music
+- 👋 Hi, I’m Youssef Adel  @youssefadel94
+
 <!-- - 🌱 I’m currently learning new tech  -->
 - 📫 How to reach me: youssefadel94@hotmail.com
 
